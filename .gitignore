@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+input/
+output/
+*.ply
+*.npy
+*.pkl
+*.csv
+*.usda
