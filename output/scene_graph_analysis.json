@@ -1,0 +1,20 @@
+{
+  "node_count": 31,
+  "edge_count": 63,
+  "semantic_distribution": {
+    "ceiling": 1,
+    "wall": 2,
+    "table": 10,
+    "floor": 1,
+    "furniture": 5,
+    "chair": 12
+  },
+  "relationship_types": {
+    "above": 7,
+    "adjacent": 40,
+    "near": 15,
+    "below": 1
+  },
+  "connected_components": 1,
+  "avg_degree": 4.064516129032258
+}

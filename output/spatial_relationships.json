@@ -1,0 +1,317 @@
+[
+  {
+    "object1": "ceiling_0",
+    "object2": "wall_0",
+    "relationship": "above"
+  },
+  {
+    "object1": "wall_0",
+    "object2": "table_5",
+    "relationship": "above"
+  },
+  {
+    "object1": "wall_0",
+    "object2": "table_8",
+    "relationship": "above"
+  },
+  {
+    "object1": "wall_0",
+    "object2": "floor_0",
+    "relationship": "above"
+  },
+  {
+    "object1": "wall_0",
+    "object2": "chair_11",
+    "relationship": "above"
+  },
+  {
+    "object1": "wall_1",
+    "object2": "table_4",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "wall_1",
+    "object2": "table_7",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "wall_1",
+    "object2": "chair_3",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "wall_1",
+    "object2": "chair_10",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "table_0",
+    "object2": "chair_0",
+    "relationship": "near"
+  },
+  {
+    "object1": "table_0",
+    "object2": "chair_9",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "table_1",
+    "object2": "table_6",
+    "relationship": "near"
+  },
+  {
+    "object1": "table_1",
+    "object2": "furniture_2",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "table_1",
+    "object2": "chair_5",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "table_1",
+    "object2": "chair_8",
+    "relationship": "near"
+  },
+  {
+    "object1": "table_2",
+    "object2": "furniture_1",
+    "relationship": "below"
+  },
+  {
+    "object1": "table_2",
+    "object2": "furniture_3",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "table_2",
+    "object2": "chair_4",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "table_2",
+    "object2": "chair_6",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "table_2",
+    "object2": "chair_7",
+    "relationship": "near"
+  },
+  {
+    "object1": "table_3",
+    "object2": "table_6",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "table_3",
+    "object2": "table_7",
+    "relationship": "near"
+  },
+  {
+    "object1": "table_3",
+    "object2": "floor_0",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "table_3",
+    "object2": "furniture_4",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "table_3",
+    "object2": "chair_2",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "table_3",
+    "object2": "chair_8",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "table_4",
+    "object2": "chair_1",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "table_4",
+    "object2": "chair_3",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "table_4",
+    "object2": "chair_4",
+    "relationship": "near"
+  },
+  {
+    "object1": "table_4",
+    "object2": "chair_10",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "table_5",
+    "object2": "table_8",
+    "relationship": "near"
+  },
+  {
+    "object1": "table_5",
+    "object2": "floor_0",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "table_5",
+    "object2": "chair_9",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "table_5",
+    "object2": "chair_11",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "table_6",
+    "object2": "chair_5",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "table_6",
+    "object2": "chair_8",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "table_7",
+    "object2": "floor_0",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "table_7",
+    "object2": "chair_2",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "table_7",
+    "object2": "chair_3",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "table_7",
+    "object2": "chair_10",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "table_8",
+    "object2": "floor_0",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "table_8",
+    "object2": "chair_6",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "table_8",
+    "object2": "chair_11",
+    "relationship": "near"
+  },
+  {
+    "object1": "table_9",
+    "object2": "chair_0",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "floor_0",
+    "object2": "chair_2",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "floor_0",
+    "object2": "chair_6",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "floor_0",
+    "object2": "chair_10",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "floor_0",
+    "object2": "chair_11",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "furniture_0",
+    "object2": "chair_1",
+    "relationship": "near"
+  },
+  {
+    "object1": "furniture_1",
+    "object2": "furniture_3",
+    "relationship": "above"
+  },
+  {
+    "object1": "furniture_1",
+    "object2": "chair_7",
+    "relationship": "above"
+  },
+  {
+    "object1": "furniture_2",
+    "object2": "chair_5",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "furniture_3",
+    "object2": "chair_7",
+    "relationship": "near"
+  },
+  {
+    "object1": "furniture_4",
+    "object2": "chair_8",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "chair_1",
+    "object2": "chair_3",
+    "relationship": "near"
+  },
+  {
+    "object1": "chair_2",
+    "object2": "chair_8",
+    "relationship": "near"
+  },
+  {
+    "object1": "chair_2",
+    "object2": "chair_10",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "chair_3",
+    "object2": "chair_4",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "chair_3",
+    "object2": "chair_6",
+    "relationship": "near"
+  },
+  {
+    "object1": "chair_3",
+    "object2": "chair_10",
+    "relationship": "adjacent"
+  },
+  {
+    "object1": "chair_4",
+    "object2": "chair_6",
+    "relationship": "near"
+  },
+  {
+    "object1": "chair_4",
+    "object2": "chair_7",
+    "relationship": "near"
+  },
+  {
+    "object1": "chair_6",
+    "object2": "chair_11",
+    "relationship": "adjacent"
+  }
+]
