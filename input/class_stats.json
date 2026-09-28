@@ -1,0 +1,16 @@
+{
+  "ceiling": 18195,
+  "floor": 5533,
+  "wall": 5172,
+  "beam": 22,
+  "column": 0,
+  "window": 947,
+  "door": 84371,
+  "table": 1943,
+  "chair": 10581,
+  "sofa": 749,
+  "bookcase": 304434,
+  "board": 19,
+  "clutter": 190167,
+  "_filtered": 465273
+}
